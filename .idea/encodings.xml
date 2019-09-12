@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/ayr-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mqc-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wzh-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqt-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsg-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zy-client" charset="UTF-8" />
+  </component>
+</project>
